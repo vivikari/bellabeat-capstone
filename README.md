@@ -1,6 +1,6 @@
 # Bellabeat App: Análise de Comportamento de Usuários Fitness
 
-Capstone Project do curso Google Data Analytics Certificate
+Capstone Project do curso **Google Data Analytics Certificate**
 
 ## Sobre o Projeto
 
@@ -35,6 +35,10 @@ Seguindo o processo de análise de dados em 6 etapas:
 - Domingo é o dia mais sedentário (6.933 passos)
 - Picos de atividade às 12h e entre 17h–19h
 - Usuários muito ativos queimam 47% mais calorias que sedentários
+
+## Visualizações
+
+![Análise Bellabeat](assets/graphics.png)
 
 ## Recomendações para o Bellabeat App
 
