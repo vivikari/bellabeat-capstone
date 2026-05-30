@@ -38,7 +38,7 @@ Seguindo o processo de análise de dados em 6 etapas:
 
 ## Visualizações
 
-![Análise Bellabeat](assets/graphics.png)
+![Análise Bellabeat](assets/graphics_analysis.png)
 
 ## Recomendações para o Bellabeat App
 
